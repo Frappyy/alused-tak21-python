@@ -1,6 +1,6 @@
-x = input("Sisesta esimene arv (x): ")
-y = input("Sisesta teine arv (y): ")
-z = input("Sisesta kolmas arv (z): ")
+x = int(input("Sisesta esimene arv (x): "))
+y = int(input("Sisesta teine arv (y): "))
+z = int(input("Sisesta kolmas arv (z): "))
 
 if x > y and x > z:
     print("Suurem number on X:", x)
