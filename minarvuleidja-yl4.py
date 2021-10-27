@@ -2,6 +2,6 @@ x = input("Sisesta esimene arv: ")
 y = input("Sisesta teine arv: ")
 
 if x > y:
-    print("Suurem arv on X:", x)
+    print("Väiksem arv on Y:", y)
 else:
-    print("Suurem arv on Y:", y)
+    print("Väiksem arv on X:", x)
