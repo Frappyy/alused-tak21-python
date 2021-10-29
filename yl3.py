@@ -1,6 +1,6 @@
-n = input("Sisesta täisarv: ")
+n = int(input("Sisesta täisarv: "))
 nn = n+n
 nnn = n+n+n
-res = int(n) + int(nn) + int(nnn)
+res = n + nn + nnn
 
 print("Vastus on:", res)
