@@ -1,6 +1,6 @@
 name = input("Mis su nimi on?: ")
 
-print("Tere", name)
+print("Tere ", name, "!", sep='')
 
 location = input("Kus sa elad?: ")
 
