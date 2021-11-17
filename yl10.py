@@ -14,4 +14,4 @@ if age < 18:
 elif age == 18:
     print("Õnnitlused täisealiseks saamisel!")
 elif age > 18:
-    print("Sa oled piisavalt vana, et autoga sõita.")
+    print("Sa oled piisavalt vana, et autoga sõita..")
